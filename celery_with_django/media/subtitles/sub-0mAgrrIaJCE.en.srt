@@ -1,0 +1,265 @@
+1
+00:00:00,000 --> 00:00:06,800
+ Today, we are announcing Wave 2 of Microsoft 365 Copilot.
+오늘 Microsoft 365 Copilot 2차 출시를 발표합니다.
+
+2
+00:00:06,800 --> 00:00:10,480
+ You can think of Copilot as the UI for AI.
+Copilot은 AI의 UI라고 생각하면 됩니다.
+
+3
+00:00:10,480 --> 00:00:16,160
+ It's about bringing the web plus work plus pages together as the new AI system.
+웹과 업무, 페이지를 모두 새로운 AI 시스템으로 통합하는 것입니다.
+
+4
+00:00:16,160 --> 00:00:20,560
+ Pages is a dynamic, persistent canvas designed for multiplayer AI collaboration.
+페이지는 멀티플레이어 AI 협업을 위해 디자인된 동적이고 지속적인 캔버스입니다.
+
+5
+00:00:20,560 --> 00:00:24,000
+ You now want to turn this simple response into a page.
+이제 이 간단한 응답을 페이지로 바꾸고 싶습니다.
+
+6
+00:00:24,000 --> 00:00:28,400
+ Here, you can keep working on your own with colleagues or with Copilot.
+여기에서는 동료나 Copilot과 함께 혼자서 작업을 계속할 수 있습니다.
+
+7
+00:00:28,400 --> 00:00:33,040
+ BizChat turns your organizational content into a rich database of information and insight,
+BizChat은 조직의 콘텐츠를 풍부한 정보와 통찰력의 데이터베이스로 전환합니다.
+
+8
+00:00:33,040 --> 00:00:35,040
+ where all of your data comes together.
+모든 데이터가 하나로 모이는 곳입니다.
+
+9
+00:00:35,040 --> 00:00:39,360
+ Web data, work data, and line of business data right in the flow of your work
+웹 데이터, 업무 데이터, 사업부 데이터를 업무 흐름에 바로 적용
+
+10
+00:00:39,360 --> 00:00:42,320
+ will start by pivoting from web to work.
+웹에서 직장으로 전환하는 것으로 시작합니다.
+
+11
+00:00:42,320 --> 00:00:46,480
+ Your coworker had an introductory two-hour meeting with the customer last week,
+귀하의 동료는 지난 주에 고객과 2시간 동안 소개 회의를 가졌습니다.
+
+12
+00:00:46,480 --> 00:00:51,360
+ so from right here in Pages, they asked Copilot to reference the recording of that meeting
+그래서 바로 여기 Pages에서 그들은 Copilot에게 그 회의의 녹음을 참조하도록 요청했습니다.
+
+13
+00:00:51,360 --> 00:00:54,400
+ and insert a bulleted list of the requirements.
+그리고 요구 사항을 요점으로 나열해 보세요.
+
+14
+00:00:54,400 --> 00:00:57,840
+ In seconds, Copilot was able to synthesize the discussion
+몇 초 만에 Copilot은 토론 내용을 종합할 수 있었습니다.
+
+15
+00:00:57,840 --> 00:00:59,680
+ and give your team the key takeaways.
+팀에 주요 내용을 알려주세요.
+
+16
+00:00:59,680 --> 00:01:02,640
+ Now, we all rely on information from the web to do our jobs,
+이제 우리 모두는 웹의 정보에 의존하여 업무를 수행합니다.
+
+17
+00:01:02,640 --> 00:01:06,000
+ but where work really happens is in Microsoft 365.
+하지만 실제로 작업이 이루어지는 곳은 Microsoft 365입니다.
+
+18
+00:01:06,000 --> 00:01:09,680
+ We are excited to announce Copilot in Excel with Python.
+Python을 사용하여 Excel에서 Copilot을 발표하게 되어 기쁩니다.
+
+19
+00:01:09,680 --> 00:01:11,840
+ Copilot opens up a new workspace.
+Copilot은 새로운 작업 공간을 열어줍니다.
+
+20
+00:01:11,840 --> 00:01:14,240
+ It shows a preview of what it's reasoning over,
+그것은 무엇에 대해 추론하고 있는지 미리 보여줍니다.
+
+21
+00:01:14,240 --> 00:01:17,680
+ creates a plan to analyze it in a way that is immediately useful,
+즉시 유용한 방식으로 분석할 계획을 수립합니다.
+
+22
+00:01:17,680 --> 00:01:20,880
+ and executes it by running and writing Python code.
+Python 코드를 실행하고 작성하여 실행합니다.
+
+23
+00:01:20,880 --> 00:01:23,840
+ PowerPoint is where people go to create and tell a story.
+파워포인트는 사람들이 스토리를 만들고 전달하는 곳입니다.
+
+24
+00:01:23,840 --> 00:01:25,760
+ Introducing Narrative Builder.
+내러티브 빌더를 소개합니다.
+
+25
+00:01:25,760 --> 00:01:28,640
+ With Copilot and PowerPoint's new Narrative Builder,
+Copilot과 PowerPoint의 새로운 내러티브 빌더를 사용하여
+
+26
+00:01:28,640 --> 00:01:30,800
+ you are in creative control.
+당신은 창조적 통제력을 갖고 있습니다.
+
+27
+00:01:30,800 --> 00:01:34,480
+ It starts with a draft outline where you can reorder the flow,
+흐름을 재정렬할 수 있는 초안 개요로 시작합니다.
+
+28
+00:01:34,480 --> 00:01:36,880
+ delete topics you don't want, or add new ones,
+원하지 않는 주제를 삭제하거나 새로운 주제를 추가하세요.
+
+29
+00:01:36,880 --> 00:01:40,640
+ and ensure you've got a solid outline before creating a presentation.
+프레젠테이션을 만들기 전에 탄탄한 개요가 있는지 확인하세요.
+
+30
+00:01:40,640 --> 00:01:43,280
+ Managing your inbox can feel like a full-time job.
+받은 편지함을 관리하는 일은 풀타임 직업처럼 느껴질 수 있습니다.
+
+31
+00:01:43,280 --> 00:01:45,840
+ Today, a new inbox is here.
+오늘은 새로운 받은편지함이 왔습니다.
+
+32
+00:01:45,840 --> 00:01:48,240
+ Introducing Prioritize My Inbox.
+받은 편지함 우선순위 지정을 소개합니다.
+
+33
+00:01:48,240 --> 00:01:50,320
+ Let's look at this email from a new customer.
+새로운 고객의 이메일을 살펴보겠습니다.
+
+34
+00:01:50,320 --> 00:01:53,840
+ When you select it, Copilot shows you why it thinks it's significant
+이를 선택하면 Copilot에서 해당 항목이 중요하다고 생각하는 이유를 보여줍니다.
+
+35
+00:01:53,840 --> 00:01:55,840
+ and highlights what action you need to take.
+그리고 어떤 조치를 취해야 하는지 강조 표시합니다.
+
+36
+00:01:55,840 --> 00:01:58,320
+ This is a key customer for the next few months,
+이는 향후 몇 달 동안의 핵심 고객입니다.
+
+37
+00:01:58,320 --> 00:02:02,800
+ so you teach Copilot that all emails mentioning them are top priority.
+그래서 Copilot에게 그들이 언급된 모든 이메일이 최우선 순위라고 가르쳐 주게 됩니다.
+
+38
+00:02:02,800 --> 00:02:05,840
+ We're enabling every organization to break free
+우리는 모든 조직이 자유로워질 수 있도록 지원합니다.
+
+39
+00:02:05,840 --> 00:02:08,080
+ of yesterday's take on business process.
+어제의 비즈니스 프로세스에 대한 견해입니다.
+
+40
+00:02:08,080 --> 00:02:11,600
+ Copilot agents supercharge every business process.
+부조종사 에이전트는 모든 비즈니스 프로세스를 엄청나게 가속화합니다.
+
+41
+00:02:11,600 --> 00:02:13,840
+ You can create an agent with a single click
+한 번의 클릭으로 에이전트를 생성할 수 있습니다.
+
+42
+00:02:13,840 --> 00:02:16,960
+ from any SharePoint site, library, or folder.
+모든 SharePoint 사이트, 라이브러리 또는 폴더에서.
+
+43
+00:02:16,960 --> 00:02:18,480
+ In just a few seconds,
+단 몇 초 만에,
+
+44
+00:02:18,480 --> 00:02:22,160
+ your Copilot agent is ready to be used or shared with others.
+귀하의 Copilot 에이전트는 다른 사람과 사용하거나 공유할 준비가 되었습니다.
+
+45
+00:02:22,240 --> 00:02:25,920
+ Let's add it to your team chat so everyone can work with the agent.
+모든 사람이 에이전트와 협력할 수 있도록 팀 채팅에 추가해 보세요.
+
+46
+00:02:25,920 --> 00:02:27,920
+ Now, all those artifacts in SharePoint
+이제 SharePoint의 모든 아티팩트
+
+47
+00:02:27,920 --> 00:02:30,320
+ are immediately accessible and useful,
+즉시 접근 가능하고 유용합니다.
+
+48
+00:02:30,320 --> 00:02:32,960
+ so Copilot can reason over all the relevant content
+그래서 Copilot은 모든 관련 콘텐츠를 추론할 수 있습니다.
+
+49
+00:02:32,960 --> 00:02:34,560
+ to find what your team needs.
+팀에 필요한 것을 찾아보세요.
+
+50
+00:02:34,560 --> 00:02:36,000
+ Wow, there you have it.
+와, 이제 다 봤습니다.
+
+51
+00:02:36,000 --> 00:02:38,400
+ This is just the beginning of Wave 2,
+이것은 단지 Wave 2의 시작일 뿐입니다.
+
+52
+00:02:38,400 --> 00:02:40,320
+ and we're just getting started.
+그리고 우리는 이제 막 시작일 뿐입니다.
+
+53
+00:02:40,320 --> 00:02:43,840
+ I cannot wait to see what you do with all these new capabilities.
+여러분이 이 모든 새로운 기능으로 무엇을 할지 기대됩니다.
+

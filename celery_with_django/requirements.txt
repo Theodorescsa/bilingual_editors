@@ -9,16 +9,3 @@ deep-translator
 django
 djangorestframework
 
-celery -A django_celery_project.celery worker --pool=solo -l info
-python manage.py runserver
-
-http://localhost:8000/download/
-{
-    "url": "https://www.youtube.com/watch?v=t9CAFYn7YgY"
-}
-
-http://localhost:8000/generate/
-{
-    "yt_id":"t9CAFYn7YgY",
-    "dest":"en"
-}

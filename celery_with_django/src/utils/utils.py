@@ -107,8 +107,8 @@ def generate_subtitle_file(yt_id: str, language, segments):
 
         text += f"{str(index + 1)}\n"
         text += f"{segment_start} --> {segment_end}\n"
-        text += f"{segment['text']}\n\n"
-        # text += f"{segment['translated_text_list'][index]}\n\n"
+        text += f"{segment['text']}\n"
+        text += f"{segment['translated_text_list'][index]}\n\n"
 
     with open(subtitle_file, "w", encoding='utf-8') as f:
         f.write(text)
